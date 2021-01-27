@@ -12,3 +12,14 @@ print(array[0])
 array.append("addition-2")
 print(array)
 print(len(array))
+
+inputed_name = input("Input your name: ")
+print("Hello, " + inputed_name)
+
+"""
+How to run python program in VSCode terminal: 
+
+Right-click anywhere in the editor window and select 
+Run Python File in Terminal 
+(which saves the file automatically):
+"""
