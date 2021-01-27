@@ -1,7 +1,7 @@
 # x = "Hello, Python"
 # print(x)
 
-# array is a "spisok" in python
+# ARRAY is a "spisok", a LIST in python
 array = ["hello", 2, None, False, 3.0]
 
 print(array)
